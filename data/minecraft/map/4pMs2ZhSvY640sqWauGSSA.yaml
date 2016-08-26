@@ -1,0 +1,1062 @@
+---
+:id: 4pMs2ZhSvY640sqWauGSSA
+:name: Minecraft Demo
+:mesh:
+  :title: Skybox
+  :description: ''
+  :url: "//assets.contentful.com/zh42n1tmsaiq/2R56rweV4Q4GeAYIa2imau/a23be30274ba261796f1a91df24e1cb0/skybox.obj"
+:blocks:
+- :id: 3jNQfok7W0aAGCqYau8SS0
+  :name: "-6,-4,-2"
+  :x: -6
+  :y: -4
+  :z: -2
+  :texture:
+    :id: 1ew3NF2YXUAWOcSMiG6UYc
+    :name: Stone
+    :textureImage:
+      :title: Stone
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/22m4HlImaAKGIaoyi0yUsU/0f7e30317656c1ebda3965ac7bc3f964/minecraft_print_cut_out_block_stone.jpg"
+- :id: 604yKWxRm0SGsicyksc4UM
+  :name: 4,-4,0
+  :x: 4
+  :y: -4
+  :z: 0
+  :texture:
+    :id: 7FEaknaGsgUoAKwIWoSgYA
+    :name: Cobblestone
+    :textureImage:
+      :title: Cobblestone
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/6IlKGHIGUEm8ocgmm0kccW/54bcfcaf062b49f93844047201eab806/minecraft_print_cut_out_block_cobblestone.jpg"
+- :id: 6Iz9Pr57O02gMQkyqaiesy
+  :name: 4,-4,4
+  :x: 4
+  :y: -4
+  :z: 4
+  :texture:
+    :id: 7FEaknaGsgUoAKwIWoSgYA
+    :name: Cobblestone
+    :textureImage:
+      :title: Cobblestone
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/6IlKGHIGUEm8ocgmm0kccW/54bcfcaf062b49f93844047201eab806/minecraft_print_cut_out_block_cobblestone.jpg"
+- :id: 3BUnZRAZLqWsQMgQqy0Omc
+  :name: 4,-4,-8
+  :x: 4
+  :y: -4
+  :z: -8
+  :texture:
+    :id: 7FEaknaGsgUoAKwIWoSgYA
+    :name: Cobblestone
+    :textureImage:
+      :title: Cobblestone
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/6IlKGHIGUEm8ocgmm0kccW/54bcfcaf062b49f93844047201eab806/minecraft_print_cut_out_block_cobblestone.jpg"
+- :id: 6ByNsQvS5G4csqQEk2Ge0M
+  :name: 2,-4,8
+  :x: 2
+  :y: -4
+  :z: 8
+  :texture:
+    :id: 7loXUUZSOk6EWQyEiam22q
+    :name: Gravel
+    :textureImage:
+      :title: Gravel
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/6CPx9cjVeg2kM6Q00U6M8k/75d1be2a27bfa7a98e08445b7a79a357/minecraft_print_cut_out_block_gravel.jpg"
+- :id: 1xaVUkoKlqiOwIqi6aEaI4
+  :name: 2,-4,-8
+  :x: 2
+  :y: -4
+  :z: -8
+  :texture:
+    :id: z7pyjiAcwKCMEOmcAsAMe
+    :name: Dirt Grass
+    :textureImage:
+      :title: Dirt Grass
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/7fHgx3DadGIQeIaUm2Sa8s/afbdc01d9113ac6890071c7e88567478/minecraft_print_cut_out_block_grass_dirt.png"
+- :id: 1mEOPSZv1yGaM2MOY6GmSS
+  :name: "-8,-4,-8"
+  :x: -8
+  :y: -4
+  :z: -8
+  :texture:
+    :id: 5AWB60ubbq82QsM8GUu2q0
+    :name: Wood
+    :textureImage:
+      :title: Wood
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/20OGragyduoEEiios0gI00/c7e88b9e6830f1ebc4db688fea01bfc2/minecraft_print_cut_out_block_wood.jpg"
+- :id: 2JCSYlAljGc8IQEquKYee8
+  :name: 8,-4,-8
+  :x: 8
+  :y: -4
+  :z: -8
+  :texture:
+    :id: 36zhntnVtYYySWGCqUoeW2
+    :name: Dirt
+    :textureImage:
+      :title: Dirt
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/qcvJRXeISs42GmmyMAw00/e490ea968ec0f1c3ea40a493c3dad60a/minecraft_print_cut_out_block_dirt.png"
+- :id: 6vMZufhAeA0mMWw4QEwyky
+  :name: 4,-2,6
+  :x: 4
+  :y: -2
+  :z: 6
+  :texture:
+    :id: 1ew3NF2YXUAWOcSMiG6UYc
+    :name: Stone
+    :textureImage:
+      :title: Stone
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/22m4HlImaAKGIaoyi0yUsU/0f7e30317656c1ebda3965ac7bc3f964/minecraft_print_cut_out_block_stone.jpg"
+- :id: 5LJwMtlbmoO4SUKCEIOc2W
+  :name: 6,-2,8
+  :x: 6
+  :y: -2
+  :z: 8
+  :texture:
+    :id: 36zhntnVtYYySWGCqUoeW2
+    :name: Dirt
+    :textureImage:
+      :title: Dirt
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/qcvJRXeISs42GmmyMAw00/e490ea968ec0f1c3ea40a493c3dad60a/minecraft_print_cut_out_block_dirt.png"
+- :id: 7CKH8Ph292aWakekuIICQY
+  :name: "-4,-4,4"
+  :x: -4
+  :y: -4
+  :z: 4
+  :texture:
+    :id: 36zhntnVtYYySWGCqUoeW2
+    :name: Dirt
+    :textureImage:
+      :title: Dirt
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/qcvJRXeISs42GmmyMAw00/e490ea968ec0f1c3ea40a493c3dad60a/minecraft_print_cut_out_block_dirt.png"
+- :id: 1qNGfsVSk4kawqg2iKiywc
+  :name: 4,-4,6
+  :x: 4
+  :y: -4
+  :z: 6
+  :texture:
+    :id: z7pyjiAcwKCMEOmcAsAMe
+    :name: Dirt Grass
+    :textureImage:
+      :title: Dirt Grass
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/7fHgx3DadGIQeIaUm2Sa8s/afbdc01d9113ac6890071c7e88567478/minecraft_print_cut_out_block_grass_dirt.png"
+- :id: 6maEcWnU8oAaI0yQUMuKkQ
+  :name: 6,-2,2
+  :x: 6
+  :y: -2
+  :z: 2
+  :texture:
+    :id: 1ew3NF2YXUAWOcSMiG6UYc
+    :name: Stone
+    :textureImage:
+      :title: Stone
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/22m4HlImaAKGIaoyi0yUsU/0f7e30317656c1ebda3965ac7bc3f964/minecraft_print_cut_out_block_stone.jpg"
+- :id: d0o6nuFeq4cewc4WKw2AS
+  :name: "-4,-4,-8"
+  :x: -4
+  :y: -4
+  :z: -8
+  :texture:
+    :id: 7FEaknaGsgUoAKwIWoSgYA
+    :name: Cobblestone
+    :textureImage:
+      :title: Cobblestone
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/6IlKGHIGUEm8ocgmm0kccW/54bcfcaf062b49f93844047201eab806/minecraft_print_cut_out_block_cobblestone.jpg"
+- :id: 7LzGECVcfSasWeoUkOEoAg
+  :name: "-6,-2,-2"
+  :x: -6
+  :y: -2
+  :z: -2
+  :texture:
+    :id: 7FEaknaGsgUoAKwIWoSgYA
+    :name: Cobblestone
+    :textureImage:
+      :title: Cobblestone
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/6IlKGHIGUEm8ocgmm0kccW/54bcfcaf062b49f93844047201eab806/minecraft_print_cut_out_block_cobblestone.jpg"
+- :id: lBVBmNN67Ik2OUGC044yc
+  :name: 0,-4,-2
+  :x: 0
+  :y: -4
+  :z: -2
+  :texture:
+    :id: 36zhntnVtYYySWGCqUoeW2
+    :name: Dirt
+    :textureImage:
+      :title: Dirt
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/qcvJRXeISs42GmmyMAw00/e490ea968ec0f1c3ea40a493c3dad60a/minecraft_print_cut_out_block_dirt.png"
+- :id: cqU5fyTmogKSOwmuqUea
+  :name: 0,-4,8
+  :x: 0
+  :y: -4
+  :z: 8
+  :texture:
+    :id: 5AWB60ubbq82QsM8GUu2q0
+    :name: Wood
+    :textureImage:
+      :title: Wood
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/20OGragyduoEEiios0gI00/c7e88b9e6830f1ebc4db688fea01bfc2/minecraft_print_cut_out_block_wood.jpg"
+- :id: 3q9CdO243Kmc0626Uew4wc
+  :name: 4,-4,-4
+  :x: 4
+  :y: -4
+  :z: -4
+  :texture:
+    :id: 36zhntnVtYYySWGCqUoeW2
+    :name: Dirt
+    :textureImage:
+      :title: Dirt
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/qcvJRXeISs42GmmyMAw00/e490ea968ec0f1c3ea40a493c3dad60a/minecraft_print_cut_out_block_dirt.png"
+- :id: 2XG9hX8wVy08mOOssICyso
+  :name: 8,-4,-6
+  :x: 8
+  :y: -4
+  :z: -6
+  :texture:
+    :id: 7loXUUZSOk6EWQyEiam22q
+    :name: Gravel
+    :textureImage:
+      :title: Gravel
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/6CPx9cjVeg2kM6Q00U6M8k/75d1be2a27bfa7a98e08445b7a79a357/minecraft_print_cut_out_block_gravel.jpg"
+- :id: 2dQoPBZCjKeO6SkYq2oEGm
+  :name: 6,-4,-6
+  :x: 6
+  :y: -4
+  :z: -6
+  :texture:
+    :id: z7pyjiAcwKCMEOmcAsAMe
+    :name: Dirt Grass
+    :textureImage:
+      :title: Dirt Grass
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/7fHgx3DadGIQeIaUm2Sa8s/afbdc01d9113ac6890071c7e88567478/minecraft_print_cut_out_block_grass_dirt.png"
+- :id: 5AZj8et2esWgk4oEG0WyM4
+  :name: "-8,-4,-6"
+  :x: -8
+  :y: -4
+  :z: -6
+  :texture:
+    :id: 36zhntnVtYYySWGCqUoeW2
+    :name: Dirt
+    :textureImage:
+      :title: Dirt
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/qcvJRXeISs42GmmyMAw00/e490ea968ec0f1c3ea40a493c3dad60a/minecraft_print_cut_out_block_dirt.png"
+- :id: 3AqCrj6qhGsw8wK0qO4o04
+  :name: 0,-4,0
+  :x: 0
+  :y: -4
+  :z: 0
+  :texture:
+    :id: 7loXUUZSOk6EWQyEiam22q
+    :name: Gravel
+    :textureImage:
+      :title: Gravel
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/6CPx9cjVeg2kM6Q00U6M8k/75d1be2a27bfa7a98e08445b7a79a357/minecraft_print_cut_out_block_gravel.jpg"
+- :id: 2mFyjXLnhqmoweKoMQKoOo
+  :name: "-6,-4,-4"
+  :x: -6
+  :y: -4
+  :z: -4
+  :texture:
+    :id: 5AWB60ubbq82QsM8GUu2q0
+    :name: Wood
+    :textureImage:
+      :title: Wood
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/20OGragyduoEEiios0gI00/c7e88b9e6830f1ebc4db688fea01bfc2/minecraft_print_cut_out_block_wood.jpg"
+- :id: 2CMc7ov6Eww8gi84UWCMGi
+  :name: "-4,-4,8"
+  :x: -4
+  :y: -4
+  :z: 8
+  :texture:
+    :id: 7FEaknaGsgUoAKwIWoSgYA
+    :name: Cobblestone
+    :textureImage:
+      :title: Cobblestone
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/6IlKGHIGUEm8ocgmm0kccW/54bcfcaf062b49f93844047201eab806/minecraft_print_cut_out_block_cobblestone.jpg"
+- :id: 2MFCKUfDfGqkaiW0Aq88Mc
+  :name: 0,-4,-8
+  :x: 0
+  :y: -4
+  :z: -8
+  :texture:
+    :id: 7FEaknaGsgUoAKwIWoSgYA
+    :name: Cobblestone
+    :textureImage:
+      :title: Cobblestone
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/6IlKGHIGUEm8ocgmm0kccW/54bcfcaf062b49f93844047201eab806/minecraft_print_cut_out_block_cobblestone.jpg"
+- :id: 5hdDsAwF6Mk8Ai602kOsKQ
+  :name: "-8,-4,0"
+  :x: -8
+  :y: -4
+  :z: 0
+  :texture:
+    :id: 5AWB60ubbq82QsM8GUu2q0
+    :name: Wood
+    :textureImage:
+      :title: Wood
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/20OGragyduoEEiios0gI00/c7e88b9e6830f1ebc4db688fea01bfc2/minecraft_print_cut_out_block_wood.jpg"
+- :id: TICyYlWlMc4smEaiqG2OQ
+  :name: "-4,-4,-4"
+  :x: -4
+  :y: -4
+  :z: -4
+  :texture:
+    :id: z7pyjiAcwKCMEOmcAsAMe
+    :name: Dirt Grass
+    :textureImage:
+      :title: Dirt Grass
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/7fHgx3DadGIQeIaUm2Sa8s/afbdc01d9113ac6890071c7e88567478/minecraft_print_cut_out_block_grass_dirt.png"
+- :id: 4bKg7zH7OokKSas0OgmogC
+  :name: "-4,-4,-2"
+  :x: -4
+  :y: -4
+  :z: -2
+  :texture:
+    :id: 36zhntnVtYYySWGCqUoeW2
+    :name: Dirt
+    :textureImage:
+      :title: Dirt
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/qcvJRXeISs42GmmyMAw00/e490ea968ec0f1c3ea40a493c3dad60a/minecraft_print_cut_out_block_dirt.png"
+- :id: 5lZ4rNjzzOsUUEWyyEawuw
+  :name: 6,-4,4
+  :x: 6
+  :y: -4
+  :z: 4
+  :texture:
+    :id: 5AWB60ubbq82QsM8GUu2q0
+    :name: Wood
+    :textureImage:
+      :title: Wood
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/20OGragyduoEEiios0gI00/c7e88b9e6830f1ebc4db688fea01bfc2/minecraft_print_cut_out_block_wood.jpg"
+- :id: 47VMjaWIXS2ciGK8UAQkQ0
+  :name: "-6,-4,6"
+  :x: -6
+  :y: -4
+  :z: 6
+  :texture:
+    :id: 5AWB60ubbq82QsM8GUu2q0
+    :name: Wood
+    :textureImage:
+      :title: Wood
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/20OGragyduoEEiios0gI00/c7e88b9e6830f1ebc4db688fea01bfc2/minecraft_print_cut_out_block_wood.jpg"
+- :id: 3gJeOe1nbyWu0K8WiKa4Kc
+  :name: "-4,-4,6"
+  :x: -4
+  :y: -4
+  :z: 6
+  :texture:
+    :id: 5AWB60ubbq82QsM8GUu2q0
+    :name: Wood
+    :textureImage:
+      :title: Wood
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/20OGragyduoEEiios0gI00/c7e88b9e6830f1ebc4db688fea01bfc2/minecraft_print_cut_out_block_wood.jpg"
+- :id: 6bsKgPY6NassGOi8AgaiKi
+  :name: "-2,-4,4"
+  :x: -2
+  :y: -4
+  :z: 4
+  :texture:
+    :id: 1ew3NF2YXUAWOcSMiG6UYc
+    :name: Stone
+    :textureImage:
+      :title: Stone
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/22m4HlImaAKGIaoyi0yUsU/0f7e30317656c1ebda3965ac7bc3f964/minecraft_print_cut_out_block_stone.jpg"
+- :id: 6fP5pHAMO4wkS6aoke80ae
+  :name: 2,-4,-6
+  :x: 2
+  :y: -4
+  :z: -6
+  :texture:
+    :id: 36zhntnVtYYySWGCqUoeW2
+    :name: Dirt
+    :textureImage:
+      :title: Dirt
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/qcvJRXeISs42GmmyMAw00/e490ea968ec0f1c3ea40a493c3dad60a/minecraft_print_cut_out_block_dirt.png"
+- :id: 63tiiKC4vu2qQGUK62UqW8
+  :name: 6,-4,-4
+  :x: 6
+  :y: -4
+  :z: -4
+  :texture:
+    :id: 7loXUUZSOk6EWQyEiam22q
+    :name: Gravel
+    :textureImage:
+      :title: Gravel
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/6CPx9cjVeg2kM6Q00U6M8k/75d1be2a27bfa7a98e08445b7a79a357/minecraft_print_cut_out_block_gravel.jpg"
+- :id: 4lgL3UjoeAy2gQQOyKWMOm
+  :name: "-2,-4,0"
+  :x: -2
+  :y: -4
+  :z: 0
+  :texture:
+    :id: 7FEaknaGsgUoAKwIWoSgYA
+    :name: Cobblestone
+    :textureImage:
+      :title: Cobblestone
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/6IlKGHIGUEm8ocgmm0kccW/54bcfcaf062b49f93844047201eab806/minecraft_print_cut_out_block_cobblestone.jpg"
+- :id: 3O25QtyYRymmsSg28uaGGA
+  :name: 2,-4,-2
+  :x: 2
+  :y: -4
+  :z: -2
+  :texture:
+    :id: 5AWB60ubbq82QsM8GUu2q0
+    :name: Wood
+    :textureImage:
+      :title: Wood
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/20OGragyduoEEiios0gI00/c7e88b9e6830f1ebc4db688fea01bfc2/minecraft_print_cut_out_block_wood.jpg"
+- :id: 19lbWW7W2m24SOQoak6Mwm
+  :name: 4,-4,2
+  :x: 4
+  :y: -4
+  :z: 2
+  :texture:
+    :id: z7pyjiAcwKCMEOmcAsAMe
+    :name: Dirt Grass
+    :textureImage:
+      :title: Dirt Grass
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/7fHgx3DadGIQeIaUm2Sa8s/afbdc01d9113ac6890071c7e88567478/minecraft_print_cut_out_block_grass_dirt.png"
+- :id: 17Qc2O5oRaK2oUcuy6kQim
+  :name: 6,-4,2
+  :x: 6
+  :y: -4
+  :z: 2
+  :texture:
+    :id: 1ew3NF2YXUAWOcSMiG6UYc
+    :name: Stone
+    :textureImage:
+      :title: Stone
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/22m4HlImaAKGIaoyi0yUsU/0f7e30317656c1ebda3965ac7bc3f964/minecraft_print_cut_out_block_stone.jpg"
+- :id: 5vikR7ymvSscEOmEQamaSa
+  :name: "-8,-4,8"
+  :x: -8
+  :y: -4
+  :z: 8
+  :texture:
+    :id: 7FEaknaGsgUoAKwIWoSgYA
+    :name: Cobblestone
+    :textureImage:
+      :title: Cobblestone
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/6IlKGHIGUEm8ocgmm0kccW/54bcfcaf062b49f93844047201eab806/minecraft_print_cut_out_block_cobblestone.jpg"
+- :id: ZZ3LZBRJqUQy8cgqo0CKu
+  :name: 2,-4,0
+  :x: 2
+  :y: -4
+  :z: 0
+  :texture:
+    :id: z7pyjiAcwKCMEOmcAsAMe
+    :name: Dirt Grass
+    :textureImage:
+      :title: Dirt Grass
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/7fHgx3DadGIQeIaUm2Sa8s/afbdc01d9113ac6890071c7e88567478/minecraft_print_cut_out_block_grass_dirt.png"
+- :id: 3janjS1Y9WwIecyICU8KMW
+  :name: 6,-4,-2
+  :x: 6
+  :y: -4
+  :z: -2
+  :texture:
+    :id: 7loXUUZSOk6EWQyEiam22q
+    :name: Gravel
+    :textureImage:
+      :title: Gravel
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/6CPx9cjVeg2kM6Q00U6M8k/75d1be2a27bfa7a98e08445b7a79a357/minecraft_print_cut_out_block_gravel.jpg"
+- :id: 5FJQnacKoEommQYm8Y6MGy
+  :name: "-6,-4,2"
+  :x: -6
+  :y: -4
+  :z: 2
+  :texture:
+    :id: 7loXUUZSOk6EWQyEiam22q
+    :name: Gravel
+    :textureImage:
+      :title: Gravel
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/6CPx9cjVeg2kM6Q00U6M8k/75d1be2a27bfa7a98e08445b7a79a357/minecraft_print_cut_out_block_gravel.jpg"
+- :id: 35Sk7kX7VSaoMGcS6oAaIo
+  :name: "-6,-4,-8"
+  :x: -6
+  :y: -4
+  :z: -8
+  :texture:
+    :id: 7loXUUZSOk6EWQyEiam22q
+    :name: Gravel
+    :textureImage:
+      :title: Gravel
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/6CPx9cjVeg2kM6Q00U6M8k/75d1be2a27bfa7a98e08445b7a79a357/minecraft_print_cut_out_block_gravel.jpg"
+- :id: 4f3iWH0zJYYYWkKAGoGkCu
+  :name: "-6,-4,4"
+  :x: -6
+  :y: -4
+  :z: 4
+  :texture:
+    :id: 7FEaknaGsgUoAKwIWoSgYA
+    :name: Cobblestone
+    :textureImage:
+      :title: Cobblestone
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/6IlKGHIGUEm8ocgmm0kccW/54bcfcaf062b49f93844047201eab806/minecraft_print_cut_out_block_cobblestone.jpg"
+- :id: 5gd0XuMgPKk8gaOQiq2uMq
+  :name: "-4,-4,2"
+  :x: -4
+  :y: -4
+  :z: 2
+  :texture:
+    :id: 5AWB60ubbq82QsM8GUu2q0
+    :name: Wood
+    :textureImage:
+      :title: Wood
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/20OGragyduoEEiios0gI00/c7e88b9e6830f1ebc4db688fea01bfc2/minecraft_print_cut_out_block_wood.jpg"
+- :id: MDhBaAfr0aE2WMwQi4YiK
+  :name: 2,-4,2
+  :x: 2
+  :y: -4
+  :z: 2
+  :texture:
+    :id: 36zhntnVtYYySWGCqUoeW2
+    :name: Dirt
+    :textureImage:
+      :title: Dirt
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/qcvJRXeISs42GmmyMAw00/e490ea968ec0f1c3ea40a493c3dad60a/minecraft_print_cut_out_block_dirt.png"
+- :id: 2bIwCzIBUEQo2mcQeW8iCS
+  :name: "-2,-4,2"
+  :x: -2
+  :y: -4
+  :z: 2
+  :texture:
+    :id: 36zhntnVtYYySWGCqUoeW2
+    :name: Dirt
+    :textureImage:
+      :title: Dirt
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/qcvJRXeISs42GmmyMAw00/e490ea968ec0f1c3ea40a493c3dad60a/minecraft_print_cut_out_block_dirt.png"
+- :id: 5QMpTjJf322AiOEYaQmCmu
+  :name: 0,-4,2
+  :x: 0
+  :y: -4
+  :z: 2
+  :texture:
+    :id: 7FEaknaGsgUoAKwIWoSgYA
+    :name: Cobblestone
+    :textureImage:
+      :title: Cobblestone
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/6IlKGHIGUEm8ocgmm0kccW/54bcfcaf062b49f93844047201eab806/minecraft_print_cut_out_block_cobblestone.jpg"
+- :id: 6TeK7S0eBOQ2Mu4wGUQesW
+  :name: 2,-2,-6
+  :x: 2
+  :y: -2
+  :z: -6
+  :texture:
+    :id: 7loXUUZSOk6EWQyEiam22q
+    :name: Gravel
+    :textureImage:
+      :title: Gravel
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/6CPx9cjVeg2kM6Q00U6M8k/75d1be2a27bfa7a98e08445b7a79a357/minecraft_print_cut_out_block_gravel.jpg"
+- :id: 2KcxseP9agaUQIse0cqowE
+  :name: "-8,-4,-2"
+  :x: -8
+  :y: -4
+  :z: -2
+  :texture:
+    :id: 36zhntnVtYYySWGCqUoeW2
+    :name: Dirt
+    :textureImage:
+      :title: Dirt
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/qcvJRXeISs42GmmyMAw00/e490ea968ec0f1c3ea40a493c3dad60a/minecraft_print_cut_out_block_dirt.png"
+- :id: E21STZZv44Sq8Sm8USIIA
+  :name: 6,-2,-2
+  :x: 6
+  :y: -2
+  :z: -2
+  :texture:
+    :id: 7FEaknaGsgUoAKwIWoSgYA
+    :name: Cobblestone
+    :textureImage:
+      :title: Cobblestone
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/6IlKGHIGUEm8ocgmm0kccW/54bcfcaf062b49f93844047201eab806/minecraft_print_cut_out_block_cobblestone.jpg"
+- :id: 5nZexcXT3OEQ6OGQwaGsko
+  :name: 4,-4,-6
+  :x: 4
+  :y: -4
+  :z: -6
+  :texture:
+    :id: 7FEaknaGsgUoAKwIWoSgYA
+    :name: Cobblestone
+    :textureImage:
+      :title: Cobblestone
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/6IlKGHIGUEm8ocgmm0kccW/54bcfcaf062b49f93844047201eab806/minecraft_print_cut_out_block_cobblestone.jpg"
+- :id: YHaOcTVXCUeyKE4S82Qm0
+  :name: "-6,-2,6"
+  :x: -6
+  :y: -2
+  :z: 6
+  :texture:
+    :id: z7pyjiAcwKCMEOmcAsAMe
+    :name: Dirt Grass
+    :textureImage:
+      :title: Dirt Grass
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/7fHgx3DadGIQeIaUm2Sa8s/afbdc01d9113ac6890071c7e88567478/minecraft_print_cut_out_block_grass_dirt.png"
+- :id: 33j3uUnhdmc628CGUmgkoc
+  :name: "-8,-4,-4"
+  :x: -8
+  :y: -4
+  :z: -4
+  :texture:
+    :id: z7pyjiAcwKCMEOmcAsAMe
+    :name: Dirt Grass
+    :textureImage:
+      :title: Dirt Grass
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/7fHgx3DadGIQeIaUm2Sa8s/afbdc01d9113ac6890071c7e88567478/minecraft_print_cut_out_block_grass_dirt.png"
+- :id: 405O8W1RDGgOOWQ6cgay0u
+  :name: "-4,-2,4"
+  :x: -4
+  :y: -2
+  :z: 4
+  :texture:
+    :id: 7loXUUZSOk6EWQyEiam22q
+    :name: Gravel
+    :textureImage:
+      :title: Gravel
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/6CPx9cjVeg2kM6Q00U6M8k/75d1be2a27bfa7a98e08445b7a79a357/minecraft_print_cut_out_block_gravel.jpg"
+- :id: 6FzoapZ6i4QmQuwkKqAYwi
+  :name: 0,-4,4
+  :x: 0
+  :y: -4
+  :z: 4
+  :texture:
+    :id: 36zhntnVtYYySWGCqUoeW2
+    :name: Dirt
+    :textureImage:
+      :title: Dirt
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/qcvJRXeISs42GmmyMAw00/e490ea968ec0f1c3ea40a493c3dad60a/minecraft_print_cut_out_block_dirt.png"
+- :id: Aez7F5oLZeiiECgWs2Ykq
+  :name: 6,-4,-8
+  :x: 6
+  :y: -4
+  :z: -8
+  :texture:
+    :id: 36zhntnVtYYySWGCqUoeW2
+    :name: Dirt
+    :textureImage:
+      :title: Dirt
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/qcvJRXeISs42GmmyMAw00/e490ea968ec0f1c3ea40a493c3dad60a/minecraft_print_cut_out_block_dirt.png"
+- :id: 1bEPqCju3Ia0AQiGC86wiS
+  :name: "-2,-4,8"
+  :x: -2
+  :y: -4
+  :z: 8
+  :texture:
+    :id: 36zhntnVtYYySWGCqUoeW2
+    :name: Dirt
+    :textureImage:
+      :title: Dirt
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/qcvJRXeISs42GmmyMAw00/e490ea968ec0f1c3ea40a493c3dad60a/minecraft_print_cut_out_block_dirt.png"
+- :id: 7I3sNa61Q4meO4eUIwGAe2
+  :name: "-2,-4,6"
+  :x: -2
+  :y: -4
+  :z: 6
+  :texture:
+    :id: 5AWB60ubbq82QsM8GUu2q0
+    :name: Wood
+    :textureImage:
+      :title: Wood
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/20OGragyduoEEiios0gI00/c7e88b9e6830f1ebc4db688fea01bfc2/minecraft_print_cut_out_block_wood.jpg"
+- :id: 3L2QCeFZIIU2Qeae0oUMOa
+  :name: 2,-4,4
+  :x: 2
+  :y: -4
+  :z: 4
+  :texture:
+    :id: 7loXUUZSOk6EWQyEiam22q
+    :name: Gravel
+    :textureImage:
+      :title: Gravel
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/6CPx9cjVeg2kM6Q00U6M8k/75d1be2a27bfa7a98e08445b7a79a357/minecraft_print_cut_out_block_gravel.jpg"
+- :id: 1yFHsJZe6g6628i0aumQA8
+  :name: "-8,-4,4"
+  :x: -8
+  :y: -4
+  :z: 4
+  :texture:
+    :id: 36zhntnVtYYySWGCqUoeW2
+    :name: Dirt
+    :textureImage:
+      :title: Dirt
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/qcvJRXeISs42GmmyMAw00/e490ea968ec0f1c3ea40a493c3dad60a/minecraft_print_cut_out_block_dirt.png"
+- :id: RHUcK13i8gQ222aYe88cw
+  :name: "-8,-4,6"
+  :x: -8
+  :y: -4
+  :z: 6
+  :texture:
+    :id: 5AWB60ubbq82QsM8GUu2q0
+    :name: Wood
+    :textureImage:
+      :title: Wood
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/20OGragyduoEEiios0gI00/c7e88b9e6830f1ebc4db688fea01bfc2/minecraft_print_cut_out_block_wood.jpg"
+- :id: 1uTXv2lqkAWmOIq6cmEGq
+  :name: "-2,-2,-6"
+  :x: -2
+  :y: -2
+  :z: -6
+  :texture:
+    :id: z7pyjiAcwKCMEOmcAsAMe
+    :name: Dirt Grass
+    :textureImage:
+      :title: Dirt Grass
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/7fHgx3DadGIQeIaUm2Sa8s/afbdc01d9113ac6890071c7e88567478/minecraft_print_cut_out_block_grass_dirt.png"
+- :id: 4304JMrKLYU8GOwIeOkg2w
+  :name: 0,-4,-6
+  :x: 0
+  :y: -4
+  :z: -6
+  :texture:
+    :id: 1ew3NF2YXUAWOcSMiG6UYc
+    :name: Stone
+    :textureImage:
+      :title: Stone
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/22m4HlImaAKGIaoyi0yUsU/0f7e30317656c1ebda3965ac7bc3f964/minecraft_print_cut_out_block_stone.jpg"
+- :id: ya96GnnJp6iU4uE4cCkWW
+  :name: 0,-4,6
+  :x: 0
+  :y: -4
+  :z: 6
+  :texture:
+    :id: 5AWB60ubbq82QsM8GUu2q0
+    :name: Wood
+    :textureImage:
+      :title: Wood
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/20OGragyduoEEiios0gI00/c7e88b9e6830f1ebc4db688fea01bfc2/minecraft_print_cut_out_block_wood.jpg"
+- :id: mNvvBgvYhaIWY0SSs2suc
+  :name: "-6,-4,0"
+  :x: -6
+  :y: -4
+  :z: 0
+  :texture:
+    :id: 1ew3NF2YXUAWOcSMiG6UYc
+    :name: Stone
+    :textureImage:
+      :title: Stone
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/22m4HlImaAKGIaoyi0yUsU/0f7e30317656c1ebda3965ac7bc3f964/minecraft_print_cut_out_block_stone.jpg"
+- :id: 1bapN0Iq4qOsaQAYKW8s0S
+  :name: "-4,-4,-6"
+  :x: -4
+  :y: -4
+  :z: -6
+  :texture:
+    :id: 7FEaknaGsgUoAKwIWoSgYA
+    :name: Cobblestone
+    :textureImage:
+      :title: Cobblestone
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/6IlKGHIGUEm8ocgmm0kccW/54bcfcaf062b49f93844047201eab806/minecraft_print_cut_out_block_cobblestone.jpg"
+- :id: Gh6LsQOJeSg0Emeo8awOW
+  :name: 6,-4,0
+  :x: 6
+  :y: -4
+  :z: 0
+  :texture:
+    :id: 1ew3NF2YXUAWOcSMiG6UYc
+    :name: Stone
+    :textureImage:
+      :title: Stone
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/22m4HlImaAKGIaoyi0yUsU/0f7e30317656c1ebda3965ac7bc3f964/minecraft_print_cut_out_block_stone.jpg"
+- :id: 4HUByk7qgwCa6mK2SKaKQy
+  :name: "-4,-2,-6"
+  :x: -4
+  :y: -2
+  :z: -6
+  :texture:
+    :id: 5AWB60ubbq82QsM8GUu2q0
+    :name: Wood
+    :textureImage:
+      :title: Wood
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/20OGragyduoEEiios0gI00/c7e88b9e6830f1ebc4db688fea01bfc2/minecraft_print_cut_out_block_wood.jpg"
+- :id: 1A7E7JVgdWcI2M0akOaaGG
+  :name: "-2,-4,-4"
+  :x: -2
+  :y: -4
+  :z: -4
+  :texture:
+    :id: 7loXUUZSOk6EWQyEiam22q
+    :name: Gravel
+    :textureImage:
+      :title: Gravel
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/6CPx9cjVeg2kM6Q00U6M8k/75d1be2a27bfa7a98e08445b7a79a357/minecraft_print_cut_out_block_gravel.jpg"
+- :id: 1cEQ4bwoWoCQuy6sme2AC2
+  :name: 2,-4,6
+  :x: 2
+  :y: -4
+  :z: 6
+  :texture:
+    :id: 36zhntnVtYYySWGCqUoeW2
+    :name: Dirt
+    :textureImage:
+      :title: Dirt
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/qcvJRXeISs42GmmyMAw00/e490ea968ec0f1c3ea40a493c3dad60a/minecraft_print_cut_out_block_dirt.png"
+- :id: 541PDahvfyGge8WGegqQ2g
+  :name: "-6,-2,8"
+  :x: -6
+  :y: -2
+  :z: 8
+  :texture:
+    :id: z7pyjiAcwKCMEOmcAsAMe
+    :name: Dirt Grass
+    :textureImage:
+      :title: Dirt Grass
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/7fHgx3DadGIQeIaUm2Sa8s/afbdc01d9113ac6890071c7e88567478/minecraft_print_cut_out_block_grass_dirt.png"
+- :id: 27Dl6C7hqUuAYagu8g8saI
+  :name: 0,-4,-4
+  :x: 0
+  :y: -4
+  :z: -4
+  :texture:
+    :id: 7FEaknaGsgUoAKwIWoSgYA
+    :name: Cobblestone
+    :textureImage:
+      :title: Cobblestone
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/6IlKGHIGUEm8ocgmm0kccW/54bcfcaf062b49f93844047201eab806/minecraft_print_cut_out_block_cobblestone.jpg"
+- :id: 2Fa0jkJ55Ce0ymkOYM4q6g
+  :name: "-4,-4,0"
+  :x: -4
+  :y: -4
+  :z: 0
+  :texture:
+    :id: 7loXUUZSOk6EWQyEiam22q
+    :name: Gravel
+    :textureImage:
+      :title: Gravel
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/6CPx9cjVeg2kM6Q00U6M8k/75d1be2a27bfa7a98e08445b7a79a357/minecraft_print_cut_out_block_gravel.jpg"
+- :id: 4EPEsu02OcwoyEYs8sooOi
+  :name: 6,-4,6
+  :x: 6
+  :y: -4
+  :z: 6
+  :texture:
+    :id: 36zhntnVtYYySWGCqUoeW2
+    :name: Dirt
+    :textureImage:
+      :title: Dirt
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/qcvJRXeISs42GmmyMAw00/e490ea968ec0f1c3ea40a493c3dad60a/minecraft_print_cut_out_block_dirt.png"
+- :id: 4ZnDG3kUUoMi086SgesiI
+  :name: 4,-4,-2
+  :x: 4
+  :y: -4
+  :z: -2
+  :texture:
+    :id: z7pyjiAcwKCMEOmcAsAMe
+    :name: Dirt Grass
+    :textureImage:
+      :title: Dirt Grass
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/7fHgx3DadGIQeIaUm2Sa8s/afbdc01d9113ac6890071c7e88567478/minecraft_print_cut_out_block_grass_dirt.png"
+- :id: 1Qm8hvHhsUWsw0UakUS2sQ
+  :name: 2,-4,-4
+  :x: 2
+  :y: -4
+  :z: -4
+  :texture:
+    :id: 36zhntnVtYYySWGCqUoeW2
+    :name: Dirt
+    :textureImage:
+      :title: Dirt
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/qcvJRXeISs42GmmyMAw00/e490ea968ec0f1c3ea40a493c3dad60a/minecraft_print_cut_out_block_dirt.png"
+- :id: 3RzzwHC5iM6u0UaGoCQ8KY
+  :name: "-8,-4,2"
+  :x: -8
+  :y: -4
+  :z: 2
+  :texture:
+    :id: z7pyjiAcwKCMEOmcAsAMe
+    :name: Dirt Grass
+    :textureImage:
+      :title: Dirt Grass
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/7fHgx3DadGIQeIaUm2Sa8s/afbdc01d9113ac6890071c7e88567478/minecraft_print_cut_out_block_grass_dirt.png"
+- :id: 3eyL0GgElaUwYgaGEMg4ai
+  :name: 6,-4,8
+  :x: 6
+  :y: -4
+  :z: 8
+  :texture:
+    :id: 7FEaknaGsgUoAKwIWoSgYA
+    :name: Cobblestone
+    :textureImage:
+      :title: Cobblestone
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/6IlKGHIGUEm8ocgmm0kccW/54bcfcaf062b49f93844047201eab806/minecraft_print_cut_out_block_cobblestone.jpg"
+- :id: 4lZojnN38AismCu8uokacm
+  :name: "-2,-4,-2"
+  :x: -2
+  :y: -4
+  :z: -2
+  :texture:
+    :id: 36zhntnVtYYySWGCqUoeW2
+    :name: Dirt
+    :textureImage:
+      :title: Dirt
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/qcvJRXeISs42GmmyMAw00/e490ea968ec0f1c3ea40a493c3dad60a/minecraft_print_cut_out_block_dirt.png"
+- :id: 2TFUVwdgmsaI8aKUGCSWyi
+  :name: "-2,-4,-8"
+  :x: -2
+  :y: -4
+  :z: -8
+  :texture:
+    :id: 7FEaknaGsgUoAKwIWoSgYA
+    :name: Cobblestone
+    :textureImage:
+      :title: Cobblestone
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/6IlKGHIGUEm8ocgmm0kccW/54bcfcaf062b49f93844047201eab806/minecraft_print_cut_out_block_cobblestone.jpg"
+- :id: 3oXtOShrleeueicMagoUAK
+  :name: "-6,-4,-6"
+  :x: -6
+  :y: -4
+  :z: -6
+  :texture:
+    :id: 7FEaknaGsgUoAKwIWoSgYA
+    :name: Cobblestone
+    :textureImage:
+      :title: Cobblestone
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/6IlKGHIGUEm8ocgmm0kccW/54bcfcaf062b49f93844047201eab806/minecraft_print_cut_out_block_cobblestone.jpg"
+- :id: 5alxBImZXUma4iSmUWw2iK
+  :name: "-6,-4,8"
+  :x: -6
+  :y: -4
+  :z: 8
+  :texture:
+    :id: 7FEaknaGsgUoAKwIWoSgYA
+    :name: Cobblestone
+    :textureImage:
+      :title: Cobblestone
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/6IlKGHIGUEm8ocgmm0kccW/54bcfcaf062b49f93844047201eab806/minecraft_print_cut_out_block_cobblestone.jpg"
+- :id: 2mF88zsp60igW6SOay6eis
+  :name: "-2,-4,-6"
+  :x: -2
+  :y: -4
+  :z: -6
+  :texture:
+    :id: z7pyjiAcwKCMEOmcAsAMe
+    :name: Dirt Grass
+    :textureImage:
+      :title: Dirt Grass
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/7fHgx3DadGIQeIaUm2Sa8s/afbdc01d9113ac6890071c7e88567478/minecraft_print_cut_out_block_grass_dirt.png"
+- :id: 2HJRtKblXaAuKACQEQM0ga
+  :name: 4,-4,8
+  :x: 4
+  :y: -4
+  :z: 8
+  :texture:
+    :id: 5AWB60ubbq82QsM8GUu2q0
+    :name: Wood
+    :textureImage:
+      :title: Wood
+      :description: ''
+      :url: "//images.contentful.com/zh42n1tmsaiq/20OGragyduoEEiios0gI00/c7e88b9e6830f1ebc4db688fea01bfc2/minecraft_print_cut_out_block_wood.jpg"
+:blockMesh:
+  :title: Block Mesh
+  :description: ''
+  :url: "//assets.contentful.com/zh42n1tmsaiq/5DGHT6pftmIKw4oyEuE6Ay/250f80f3c830715f3a0da966da060775/block.obj"
+:mapTexture:
+  :title: Skybox Texture
+  :description: ''
+  :url: "//images.contentful.com/zh42n1tmsaiq/2aA97aoO5yYiMe4UkgQMAc/70134bdd4e3dd0ffd76687b78e515495/Day_Skybox.jpg"
+:waypoints:
+- :id: 4NaEcBPNxmwcSQWYwc2sIU
+  :x: 4
+  :y: 0
+  :z: -2
+  :name: "4,0,-2"
+- :id: 3SSWYMNfKwKMCs0GqK0iu8
+  :x: 2
+  :y: 0
+  :z: 2
+  :name: '2,0,2'
+- :id: 1uzxTIYDUsgs0WwMcwaKsY
+  :x: 0
+  :y: 0
+  :z: 0
+  :name: '0,0,0'
+- :id: 2YOUG04FCMa8sMmYKG0Q0s
+  :x: -2
+  :y: 0
+  :z: -2
+  :name: "-2,0,-2"
+- :id: 1MiuvKbzKYEMsIYoM2ceq8
+  :x: -4
+  :y: 0
+  :z: 2
+  :name: "-4,0,2"

@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+.container {
+  flex-direction: row;
+}
+
+.sidebar {
+  background: #21304A;
+  text-align: center;
+  font-family: sans-serif;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  width: 20vw;
+}
+
+.sidebar h1 {
+  color: #FFFFFF;
+  font-weight: bold;
+  font-size: 32px;
+  letter-spacing: -1px;
+  text-transform: uppercase;
+}
+
+.sidebar p {
+  color: #ffffff;
+}
+
+@media (max-width: 600px) {
+  .container {
+    flex-direction: column-reverse;
+  }
+
+  .a-enter-vr {
+    top: 7vh;
+    right: 1vw;
+    bottom: 0;
+  }
+}

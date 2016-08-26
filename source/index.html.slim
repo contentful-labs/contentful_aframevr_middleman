@@ -1,0 +1,18 @@
+---
+title: MiddlemanVR
+---
+
+- map = data.minecraft.map.first[1][data.minecraft.map.first[1].keys.first]
+- textures = { 'Cobblestone' => 'cobble.jpg', 'Stone' => 'stone.jpg', 'Dirt' => 'dirt.jpg', 'Gravel' => 'gravel.jpg', 'Dirt Grass' => 'grass.jpg', 'Wood' => 'wood.png' }
+
+div class='container' style='display: flex;'
+  div class='sidebar'
+    header
+      h1 Contentful Minecraft VR
+      p An AFrame experiment
+  div class='vr_frame' style='display: flex;'
+    a-scene
+      a-sky src="https://i.imgur.com/d1g276a.jpg"
+      - map['blocks'].each do |block|
+        a-box position="#{block.x / 2} #{(block.y + 4) / 2} #{block.z / 2}" width="1" height="1" depth="1" src="./images/#{textures[block.texture.name]}"
+
